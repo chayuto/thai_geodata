@@ -17,4 +17,5 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   s.required_ruby_version = '>= 2.7'
+  s.add_development_dependency 'minitest', '~> 5.0'
 end
